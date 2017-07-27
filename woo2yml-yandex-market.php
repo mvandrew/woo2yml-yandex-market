@@ -3,7 +3,7 @@
  * Plugin Name:     WooCommerce items export to YML
  * Plugin URI:      https://github.com/mvandrew/woo2yml-yandex-market
  * Version:         1.0.0
- * Description:     WordPress plugin for WooCommerce items export to YML format Yandex Market.
+ * Description:     WordPress plugin for exporting WooCommerce items to the Yandex Market YML format.
  * Author:          Andrey Mishchenko
  * Tested up to:    4.8
  * Author URI:      http://www.msav.ru/
