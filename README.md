@@ -1,0 +1,2 @@
+# WordPress Плагин Woo2YML-Yandex-Market
+WordPress Плагин Woo2YML-Yandex-Market предназначен для экспорта товарных предложений из каталога товаров WooCommerce в YML формат [Яндекс Маркета](https://yandex.ru/support/partnermarket/yml/about-yml.html).
